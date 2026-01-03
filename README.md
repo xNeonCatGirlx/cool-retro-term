@@ -8,6 +8,8 @@
 cool-retro-term is a terminal emulator which mimics the look and feel of the old cathode tube screens.
 It has been designed to be eye-candy, customizable, and reasonably lightweight.
 
+This is a special verison forked to add support and compile for MacOS running on Apple Silicon
+
 It uses the QML port of qtermwidget (Konsole): https://github.com/Swordfish90/qmltermwidget.
 
 This terminal emulator works under Linux and macOS and requires Qt5. It's suggested that you stick to the latest LTS version.
